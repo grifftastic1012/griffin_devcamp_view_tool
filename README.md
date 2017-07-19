@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+''''ruby
+GriffinDevcampViewTool::Renderer.copyright 'Griffin Vriens', 'All rights reserved'
+''''
 
 ## Development
 
